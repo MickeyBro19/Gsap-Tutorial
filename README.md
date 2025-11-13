@@ -1,10 +1,3 @@
-Absolutely 👍 Here’s a **clean, developer-friendly README.md** tailored for your GSAP + React + Tailwind “Frosted Glass” animation playground website (including the cursor, scroll animations, and guitar string interaction).
-
-You can copy-paste this into your project root as `README.md`:
-
----
-
-````markdown
 # 🎸 GSAP Interactive Animation Playground
 
 A visually rich interactive website built with **React**, **GSAP (GreenSock Animation Platform)**, and **Tailwind CSS**, featuring:
