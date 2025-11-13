@@ -143,10 +143,3 @@ MIT License © 2025 — Feel free to use, modify, and build upon this project.
 ---
 
 > *“Animation isn’t just movement — it’s emotion in motion.”* 🎞️
-
-```
-
----
-
-Would you like me to include **installation badges, live demo link, and dark/light screenshots section** in the README (to make it GitHub-ready)?
-```
