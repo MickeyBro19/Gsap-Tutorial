@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html, body {
+    width: 100vw;
+    background-color: black;
+    color: white;
+    font-family:'Avenir', Helvetica, Arial, sans-serif;
+
+}
+
+@utility utilities {
+    .flex-center{
+        @apply flex justify-center items-center;
+    }
+}
